@@ -1,28 +1,37 @@
-# Calender-Apps
 # 📅 MyKalender App
 
-Aplikasi **MyKalender** adalah aplikasi kalender digital yang membantu pengguna mengatur jadwal, agenda, dan aktivitas harian dengan mudah.
+Aplikasi **MyKalender** adalah aplikasi manajemen jadwal sederhana yang membantu pengguna mengatur agenda harian dengan mudah dan terstruktur.
 
 ---
 
-## 📱 Tampilan Aplikasi
+## 🚀 Fitur Utama
+- Tampilan Entrance (Halaman awal)
+- Login & Sign In User
+- Halaman Utama (Dashboard Kalender)
+- Tambah Agenda / Jadwal
+
+---
+
+## 📸 Tampilan Aplikasi
 
 ### 1. Entrance Screen
-Tampilan awal saat aplikasi dibuka.
+Halaman awal saat aplikasi dibuka.
 
 ![Entrance](images/entrance.png)
 
 ---
 
-### 2. Sign In Screen
-Halaman login untuk masuk ke dalam aplikasi.
+### 2. Login / Sign In
+Halaman untuk pengguna masuk atau mendaftar.
+
+![Login](images/login.png)
 
 ![Sign In](images/signin.png)
 
 ---
 
-### 3. Halaman Utama (Dashboard)
-Menampilkan kalender dan daftar agenda pengguna.
+### 3. Halaman Utama
+Dashboard utama yang menampilkan kalender dan daftar agenda.
 
 ![Home](images/home.png)
 
@@ -35,17 +44,10 @@ Halaman untuk menambahkan jadwal atau kegiatan baru.
 
 ---
 
-## 🚀 Fitur Utama
-- Manajemen jadwal harian
-- Tambah, edit, dan hapus agenda
-- Tampilan kalender interaktif
-- Sistem login pengguna
-
----
-
 ## 🛠️ Teknologi yang Digunakan
-- Android Studio (Kotlin/Java)
-- Firebase (Authentication & Database)
+- Android Studio
+- Kotlin / Java
+- Firebase (opsional jika digunakan)
 
 ---
 
